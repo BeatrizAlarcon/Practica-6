@@ -1,0 +1,5 @@
+2.-
+    Para vender el medicamento al mismo precio en vez de asignar el atributo precio en la relación dispensa, tedría que estar como atributo en la entidad medicamento.
+
+3.-
+    Habría que crear una entidad relacionada con la relación receta, similar a la solución propuesta para el ejercicio 1.1.

@@ -1,0 +1,1 @@
+No, sería algo que habría que comprobar al implementar la base de datos.
